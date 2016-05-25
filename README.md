@@ -1,5 +1,6 @@
-# HELLO GO - hellogo
-Golang practice
+# HELLO GO
+`Golang practice | algobet Labs © 2016`
 
 ## Samples from Golang.org
-### hello/hello.go
+> ### hello
+`./hello/hello.go`
